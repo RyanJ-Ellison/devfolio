@@ -1,5 +1,5 @@
 ---
-title: The Power of Presentations: Why PhD Students Should Embrace the Spotlight
+title: The Power of Presentations - Why PhD Students Should Embrace the Spotlight
 date: '2023-02-25T12:00:00.00Z'
 description: ''
 ---
