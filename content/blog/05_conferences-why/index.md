@@ -1,5 +1,5 @@
 ---
-title: Maximizing Your PhD Journey: The Benefits of Attending Conferences
+title: Maximizing Your PhD Journey - The Benefits of Attending Conferences
 date: '2023-02-28T12:00:00.00Z'
 description: ''
 ---
